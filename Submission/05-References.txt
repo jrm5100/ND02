@@ -1,0 +1,4 @@
+* Background on the area: https://en.wikipedia.org/wiki/Raleigh,_North_Carolina
+* Structure of OSM XML Data: https://wiki.openstreetmap.org/wiki/OSM_XML
+* Docs on json library in python: https://docs.python.org/3/library/json.html
+* Docs on PyMongo: http://api.mongodb.org/python/current/api/index.html
